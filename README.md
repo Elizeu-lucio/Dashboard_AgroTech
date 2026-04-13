@@ -1,4 +1,4 @@
-# 🚜 Projeto End-to-End: Telemetria e Inteligência no Agronegócio
+# 🚜 Projeto End-to-End: AgroTech - Inteligência no Agronegócio
 
 Este projeto demonstra a construção de um ecossistema de dados completo, desde a modelagem de um banco de dados relacional na nuvem até a entrega de um dashboard estratégico para tomada de decisão no campo.
 
