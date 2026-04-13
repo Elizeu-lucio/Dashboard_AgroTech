@@ -2,8 +2,8 @@ import random
 from datetime import datetime, timedelta
 from supabase import create_client, Client
 
-url = "https://aueqjdxchrfbrgeepsnd.supabase.co"
-key = "sb_publishable_w59JO2FJ6xp0Rl8OaUwXRA_FIo1m9V8" 
+url = ""
+key = "" 
 supabase: Client = create_client(url, key)
 
 # Lista das tabelas para busca e dicionario para armazenar a tabela e seus IDs
